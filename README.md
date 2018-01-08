@@ -1,6 +1,6 @@
 # MyReads Project
 
-This is a project for Udacity's React Fundamentals course. The goal of this project is to add the interactivity to the app by refactoring the static code using React. The project is bootstrap by [Create React App](https://github.com/facebookincubator/create-react-app).
+This is a project for Udacity's React Fundamentals course. The goal of this project is to add the interactivity to the app by refactoring the static code using React. 
 
 
 
